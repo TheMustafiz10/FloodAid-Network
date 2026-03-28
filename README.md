@@ -1,7 +1,6 @@
 # FloodAid Network
 
-A project where one can donate cryptocurrencies and the fundraiser and collect cryptocurrencies.
-
+Developed a Decentralized Application (DApp) project where one can donate cryptocurrencies and the fundraiser can collect funds using cryptocurrencies. Built smart contract functionality and integrated it with a web interface using tools like Truffle, Ganache, and MetaMask for testing and transactions. Implemented secure and transparent fund management leveraging Blockchain technology.
 ## Prerequisite
 
 * Make sure you have `truffle` and `ganache` installed in your machine.
